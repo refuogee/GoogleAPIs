@@ -15,3 +15,5 @@ I have removed sensitive data (I hope) and never got around to having a credenti
 This won't work as is because you would need to have all the correct Google access values for your data etc and then I managed the JWT by putting it into a database and checking if it was valid each time, if it wasn't I then created a new one. 
 
 So yeah work in progress but I learnt a fair whack of things doing this.
+
+One of the interesting things I learnt during this was including PHP files as variables. So building one PHP with the intention of it passing down it's data to the next PHP file. 
